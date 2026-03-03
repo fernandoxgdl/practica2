@@ -1,0 +1,1 @@
+en este proyecto integro diferentes componentes como un logotipo, un navbar menu que redirija a las secciones de la ecommerce
