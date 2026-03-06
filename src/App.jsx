@@ -1,6 +1,6 @@
 import { Mujeres } from './pages/Mujeres'
 import { Hombres } from './pages/Hombres'
-import { Home } from './pages/home'
+import { Home } from './pages/Home'
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Logo } from './Contenido/Logo'
 import './App.css'
