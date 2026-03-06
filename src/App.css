@@ -43,3 +43,13 @@ justify-items: center;
   margin: 1rem;
  
 }
+@media (max-width: 768px) {
+  .cuerpo {
+    grid-template-columns: 1fr;
+    width: 95%;
+  }
+
+  .tarjeta1, .tarjeta2, .tarjeta3, .tarjeta4 {
+    width: 90%;
+  }
+}
